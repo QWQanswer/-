@@ -1,5 +1,6 @@
 
-<p align="center"><b> c</b></p>
+<p align="center">开悟其实很简单</p>
+<p align="center">人人都可以轻轻松松开悟有没有开悟</p>
 <p align="center">如何开悟</p>
 <p align="center">开悟之后是个怎样的状况</p>
 <p align="center">我们为什么要追求开悟</p>
@@ -74,6 +75,4 @@
 <p align="center">之外的另一种品质品质完全不同的存在状态</p>
 <p align="center">这种状态究竟是什么样子</p>
 <p align="center">后面我会慢慢道来</p>
-<p align="center"></p>
-<p align="center">
-<p align="center">
+
